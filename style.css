@@ -1,0 +1,51 @@
+title{
+    font-size: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{ 
+    width: 400px;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    width: 90%; 
+    margin-inline: 5%;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.cabezales{
+    text-align: center;
+    margin-bottom: 40px;
+    background-color: rgb(80, 13, 13);
+    background-position: 100%;
+}
+.video{
+    text-align: center;
+    margin: 20px;
+}
+body{
+    background-color: rgba(161, 36, 36, 0.897);
+
+}
+.camiseta{
+    width: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+body{
+    margin: 0%;
+}
+ 
